@@ -3,7 +3,7 @@
 
 **Author:** Nikhil Patel
 **Date:** April 2026
-**Stack:** Python, LangGraph, Claude API, pdfplumber, pandas, matplotlib
+**Stack:** Python, LangGraph, OpenAI GPT-4o, pdfplumber, pandas, matplotlib
 
 ---
 
@@ -73,10 +73,10 @@ cd The-Lab/earnings-call-analyzer
 pip install -r requirements.txt
 
 # Set your API key
-echo "ANTHROPIC_API_KEY=your-key-here" > .env
+echo "OPENAI_API_KEY=your-key-here" > .env
 
-# Download a transcript (or add your own to sample_transcripts/)
-# SEC EDGAR, Seeking Alpha, or MotleyFool transcripts work
+# A sample Microsoft Q2 FY2026 transcript is included
+# Or add your own to sample_transcripts/ (SEC EDGAR, Seeking Alpha, MotleyFool)
 
 # Run the notebook
 jupyter notebook earnings_call_analyzer.ipynb

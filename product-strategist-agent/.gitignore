@@ -1,0 +1,6 @@
+.env
+sample_outputs/*.png
+sample_outputs/*.md
+sample_outputs/*.json
+__pycache__/
+.ipynb_checkpoints/

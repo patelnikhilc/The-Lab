@@ -13,7 +13,8 @@ These case studies complement my enterprise product portfolio (Microsoft Azure, 
 | Project | Domain | Stack | Summary |
 |---------|--------|-------|---------|
 | [FoodHub Order Analysis](./foodhub-order-analysis/) | Food Delivery / Market Analytics | Python, Pandas, Seaborn, Jupyter | EDA of 1,898 NYC delivery orders revealing demand patterns, delivery bottlenecks, and revenue optimization opportunities. 6 strategic recommendations for leadership. |
-| [AI Earnings Call Analyzer](./earnings-call-analyzer/) | Financial Intelligence / Agentic AI | LangGraph, Claude API, Python, matplotlib | Multi-agent pipeline that takes an earnings call transcript and auto-generates a structured analyst brief with BUY/HOLD/WATCH signal, sentiment analysis, and guidance tracking. |
+| [AI Earnings Call Analyzer](./earnings-call-analyzer/) | Financial Intelligence / Agentic AI | LangGraph, OpenAI GPT-4o, Python, matplotlib | Multi-agent pipeline that takes an earnings call transcript and auto-generates a structured analyst brief with BUY/HOLD/WATCH signal, sentiment analysis, and guidance tracking. |
+| [AI Product Strategist Agent](./product-strategist-agent/) | Product Strategy / Agentic AI | LangGraph, OpenAI GPT-4o, Streamlit, pandas | 5-agent pipeline that analyzes any product, maps competitors, identifies gaps, and generates a complete PRD with RICE-scored feature backlog. |
 
 ---
 

@@ -1,4 +1,5 @@
 # The Lab
+Most of my career has been spent shipping proprietary enterprise software at Microsoft, Oracle, Citi, and NextGen — work that isn't public by nature. **The Lab** is where I share what I'm exploring in AI product strategy and agentic systems publicly.
 
 **AI Product Case Studies by Nikhil Patel**
 
